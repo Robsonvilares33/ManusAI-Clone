@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+psycopg2-binary
+sentry-sdk
+transformers
+openai
+google-generativeai
+elevenlabs
+perplexity-ai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+notion-client
+
